@@ -1,3 +1,4 @@
+Marker Chromosome Physical_coordinate_bp genetic_coordinate_cM
 16 Chromosome_1 92617 63.93
 17 Chromosome_1 96047 63.93
 18 Chromosome_1 112064 63.93
